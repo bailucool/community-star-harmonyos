@@ -1,0 +1,35 @@
+# HarmonyOS项目忽略文件
+
+# 构建输出
+build/
+entry/build/
+*/build/
+
+# 依赖包
+oh_modules/
+node_modules/
+
+# IDE文件
+.idea/
+*.iml
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 签名文件
+*.p12
+*.p7b
+*.cer
+*.csr
+
+# 本地配置
+local.properties

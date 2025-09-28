@@ -1,0 +1,77 @@
+{
+  "HVIGOR_OHOS_PLUGIN": {
+    "MODULES": [
+      {
+        "MODULE_NAME": "1043bfc77febe75fafec0c4309faccf1",
+        "API_TYPE": "stageMode",
+        "INCREMENTAL_TASKS": {
+          "COMPILE_ARKTS": true
+        }
+      }
+    ],
+    "NATIVE_COMPILER": "Default",
+    "BUILD_MODE": "debug",
+    "USE_NORMALIZED_OHMURL": true
+  },
+  "HVIGOR": {
+    "IS_INCREMENTAL": true,
+    "IS_DAEMON": true,
+    "IS_PARALLEL": true,
+    "IS_HVIGORFILE_TYPE_CHECK": false,
+    "TASK_TIME": {
+      "1043bfc77febe75fafec0c4309faccf1": {
+        "PreBuild": 653248300,
+        "CreateModuleInfo": 817600,
+        "ConfigureCmake": 704300,
+        "MergeProfile": 4982500,
+        "CreateBuildProfile": 2722200,
+        "PreCheckSyscap": 728100,
+        "ProcessIntegratedHsp": 1125000,
+        "BuildNativeWithCmake": 638100,
+        "MakePackInfo": 5907500,
+        "SyscapTransform": 4379200,
+        "ProcessProfile": 552376600,
+        "ProcessRouterMap": 9841600,
+        "ProcessShareConfig": 5865800,
+        "ProcessStartupConfig": 5135000,
+        "BuildNativeWithNinja": 1535900,
+        "ProcessResource": 22601900,
+        "GenerateLoaderJson": 22396500,
+        "CompileResource": 1122316600,
+        "BuildJS": 2863400,
+        "CompileArkTS": 3294739200,
+        "GeneratePkgModuleJson": 4068500,
+        "ProcessCompiledResources": 1264600,
+        "PackageHap": 77943400,
+        "PackingCheck": 4066200,
+        "SignHap": 1809900,
+        "CollectDebugSymbol": 1251000,
+        "assembleHap": 278400
+      }
+    },
+    "APIS": [
+      "getHvigorConfig",
+      "getRootNodeDescriptor",
+      "getChildNode",
+      "getNodeByName",
+      "getAllNodes",
+      "getRootNode",
+      "getNodeName",
+      "getNodePath",
+      "subNodes",
+      "getExtraOption",
+      "getExtParam",
+      "getExtParams",
+      "getProperty",
+      "getProperties",
+      "getParameter",
+      "getProductName",
+      "nodesEvaluated",
+      "getCommandEntryTask",
+      "getStartParams"
+    ],
+    "CONFIG_PROPERTIES": {},
+    "TOTAL_TIME": 6130157400,
+    "BUILD_ID": "202509281653444930"
+  }
+}
