@@ -180,9 +180,8 @@ oauth_client_secret: "your-oauth-client-secret"
 
 ## 📞 联系我们
 
-- 项目地址: [GitHub/Gitee链接]
-- 问题反馈: [Issues页面]
-- 技术交流: [社区群组]
+- 项目地址: [https://github.com/bailucool/community-star-harmonyos]
+- 问题反馈: [https://blog.csdn.net/qq_22695001]
 
 ---
 
